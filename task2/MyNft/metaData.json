@@ -1,0 +1,11 @@
+{
+  "name": "My First NFT",
+  "description": "This is my first NFT artwork",
+  "image": "ipfs://bafkreihpk54rfpeonybwqf5vtoyygtflnsbq4enwwbtizalnh2mc3yi3oq",
+  "attributes": [
+    {
+      "trait_type": "Artist",
+      "value": "chenlong"
+    }
+  ]
+}
